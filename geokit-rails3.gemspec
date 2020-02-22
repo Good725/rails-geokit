@@ -5,8 +5,7 @@ Gem::Specification.new do |s|
   s.name        = "geokit-rails3"
   s.version     = GeokitRails3::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Andre Lewis", "Bill Eisenhauer", "Jeremy Lecour"]
-  s.email       = ["andre@earthcode.com", "bill_eisenhauer@yahoo.com", "jeremy.lecour@gmail.com"]
+  s.email       = ["andre@earthcode.com", "firly.larly0430@gmail.com"]
   s.homepage    = "http://github.com/jlecour/geokit-rails3"
   s.summary     = "Integrate Geokit with Rails 3"
   s.description = "Port of the Rails plugin \"geokit-rails\" to Rails 3, as a gem"
